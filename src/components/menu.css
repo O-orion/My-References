@@ -1,0 +1,30 @@
+.container-menu {
+    background-color: #535bf2;
+    display: flex;
+    padding: 0.1rem;
+
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-lista {
+    display: flex;
+    gap: 30px;
+
+    color: #fff;
+    list-style: none;
+}
+  
+menu-link {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.pesquisa {
+    margin-right: 0.5rem;
+    padding: 0.4rem;
+    border-radius: 0.2rem;
+    border: none;
+}

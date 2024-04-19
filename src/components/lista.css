@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.lista-button {
+    background-color: rgb(42, 24, 94);
+    margin-bottom: 0.5rem;
+    color: #e2e2e2;
+    font-weight: bold;
+}
